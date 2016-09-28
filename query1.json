@@ -1,0 +1,39 @@
+{
+    "statuses": [
+        {
+            "created_at": "Sat Apr 30 12:34:55 +0000 2016",
+            "id": "1",
+            "user": {
+                "screen_name": "sender1"
+            }
+        },
+        {
+            "created_at": "Sat Apr 30 12:33:57 +0000 2016",
+            "id": "2",
+            "user": {
+                "screen_name": "sender2"
+            }
+        },
+        {
+            "created_at": "Sat Apr 30 12:33:55 +0000 2016",
+            "id": "3",
+            "user": {
+                "screen_name": "sender3"
+            }
+        },
+        {
+            "created_at": "Sat Apr 30 12:33:55 +0000 2016",
+            "id": "4",
+            "user": {
+                "screen_name": "sender4"
+            }
+        },
+        {
+            "created_at": "Sat Apr 30 12:30:55 +0000 2016",
+            "id": "5",
+            "user": {
+                "screen_name": "sender5"
+            }
+        }
+    ]
+}

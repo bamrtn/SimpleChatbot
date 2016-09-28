@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Response 1",
+        "query": "query1",
+        "message_before": "Message to ",
+        "message_after": ", from query 1.",
+        "media": null
+    },
+    {
+        "name": "Response 2",
+        "query": "query2",
+        "message_before": "Message to ",
+        "message_after": ", from query 2.",
+        "media": null
+    }
+]
